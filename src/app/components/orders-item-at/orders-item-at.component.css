@@ -1,0 +1,23 @@
+.card-img-top {
+    width: 100%;
+    border-color: black;
+    border-width: 1px;
+    background-color: blueviolet;
+}
+
+.card {
+    border-color: black;
+    border-width: 1px;
+    background-color: lightgray;
+    margin: 10px;
+}
+
+.card-body {
+    padding: 10px
+}
+
+a {
+    background-color: lightblue;
+    padding: 5px;
+    font-style: italic;
+}

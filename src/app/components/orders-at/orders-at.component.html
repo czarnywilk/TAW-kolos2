@@ -1,0 +1,10 @@
+<div class="container">
+  <div *ngFor="let item of items$">
+    <div class="row">
+      <div class="col-sm-12">
+        <orders-item-at [image]="item.image" [text]="item.text" [id]="item.id">
+        </orders-item-at>
+      </div>
+    </div>
+  </div>
+</div>

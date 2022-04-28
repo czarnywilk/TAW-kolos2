@@ -1,0 +1,11 @@
+.col-sm-12 {
+    width: 100%;
+    border-width: 1px;
+    border-color: black;
+}
+
+.row {
+    width: 100%;
+    border-width: 1px;
+    border-color: black;
+}
